@@ -3,7 +3,7 @@
 > A dark theme for [rofi](https://github.com/davatorium/rofi).
 > Dracula inspired color scheme for rofi.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./newscreenshot.png)
 
 ## Install
 
