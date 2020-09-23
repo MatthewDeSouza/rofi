@@ -1,7 +1,10 @@
 # Dracula for [rofi](https://github.com/davatorium/rofi)
 
 > A dark theme for [rofi](https://github.com/davatorium/rofi).
+
 > Dracula inspired color scheme for rofi.
+
+> Format based on [slate](https://github.com/davatorium/rofi-themes/blob/master/User%20Themes/slate.rasi) by [davatorium](https://github.com/davatorium)
 
 ![Screenshot](./newscreenshot.png)
 
